@@ -1,0 +1,5 @@
+a=input("enter the user's name:")
+print("hello a")
+b=input("enter the first name:")
+c=input("enter the surname:")
+print("hello b,c")
